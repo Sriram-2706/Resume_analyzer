@@ -1,4 +1,4 @@
-Offline AI-Powered Resume Analyzer
+Offline AI-Powered Resume Analyzer - Trojan Hex
 =================================
 
 Description
